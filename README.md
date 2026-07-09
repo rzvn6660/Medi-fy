@@ -49,7 +49,7 @@ This project was developed as part of a Bachelor of Technology program in Artifi
 ---
 
 ## System Architecture
-![Medi-Fy Architecture Diagram](assets/architecture.png)
+![Medi-Fy Architecture Diagram](architecture.png)
 The system consists of three main layers:
 
 ### User Interface Layer
